@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">FirstApp</string>
+
+    <!--IMC App-->
     <string name="male">Hombre</string>
     <string name="female">Mujer</string>
     <string name="height">Altura</string>
@@ -22,4 +24,8 @@
     <string name="obesity_2_description">Tienes obesidad moderada. Busca ayuda profesional para iniciar un programa de pérdida de peso.</string>
     <string name="morbid_obesity">Obesidad Morbida</string>
     <string name="morbid_obesity_description">Tienes obesidad severa. Es crucial obtener asistencia médica especializada.</string>
+
+    <!--Todo App-->
+    <string name="todo_title">Todo App</string>
+    <string name="todo_category">Categoría</string>
 </resources>

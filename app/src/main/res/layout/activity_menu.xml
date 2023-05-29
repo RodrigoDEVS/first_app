@@ -29,4 +29,15 @@
         app:layout_constraintTop_toBottomOf="@+id/btnInput"
         android:layout_marginTop="20dp"/>
 
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnTODOApp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TODO App"
+        android:textColor="@color/btn_text"
+        android:background="@color/btn_background"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnIMCApp"
+        android:layout_marginTop="20dp"/>
+
 </androidx.constraintlayout.widget.ConstraintLayout>
