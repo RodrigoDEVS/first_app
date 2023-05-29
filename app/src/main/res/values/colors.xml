@@ -17,4 +17,12 @@
     <color name="btn_purple">#8A2BE2</color>
     <color name="title_text">#FF018786</color>
     <color name="btn_selected">#2D5DB3</color>
+
+    <color name="error">#CC0606</color>
+    <color name="under_weight">#0ECDED</color>
+    <color name="normal_weight">#24ED0E</color>
+    <color name="overweight">#FFEB3B</color>
+    <color name="obesity_1">#ECBE34</color>
+    <color name="obesity_2">#FF9800</color>
+    <color name="morbid_obesity">#FF5722</color>
 </resources>

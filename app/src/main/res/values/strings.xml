@@ -8,4 +8,18 @@
     <string name="calculate">Calcular</string>
     <string name="result">Tu Resultado</string>
     <string name="recalculate">Re-Calcular</string>
+
+    <string name="error">Error</string>
+    <string name="under_weight">Bajo Peso</string>
+    <string name="under_weight_description">Estás por debajo del rango saludable. Considera hablar con un profesional de la salud.</string>
+    <string name="normal_weight">Peso Normal o Adecuado</string>
+    <string name="normal_weight_description">Tienes un peso adecuado para tu altura. ¡Felicidades!</string>
+    <string name="overweight">Sobrepeso</string>
+    <string name="overweight_description">Tienes un exceso de peso. Es importante adoptar hábitos saludables.</string>
+    <string name="obesity_1">Obesidad Grado 1</string>
+    <string name="obesity_1_description">Tienes obesidad leve. Considera buscar orientación médica para abordarla.</string>
+    <string name="obesity_2">Obesidad Grado 2</string>
+    <string name="obesity_2_description">Tienes obesidad moderada. Busca ayuda profesional para iniciar un programa de pérdida de peso.</string>
+    <string name="morbid_obesity">Obesidad Morbida</string>
+    <string name="morbid_obesity_description">Tienes obesidad severa. Es crucial obtener asistencia médica especializada.</string>
 </resources>
